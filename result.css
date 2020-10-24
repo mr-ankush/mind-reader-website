@@ -1,0 +1,55 @@
+h1
+{
+	color:red;
+	text-decoration:underline;
+	background-color:#FFEBCD;
+	font-size:4em;
+	font-family:algerian;
+	
+}
+h1:hover
+{
+	color:black;
+	background-color:#FFEBCD;
+	font-size:4em;
+	font-family:algerian;
+	
+}
+div.b
+{
+	background-color:orange;
+	margin-left:40px;
+	margin-right:40px;
+	padding:25px;
+	-webkit-column-count:20;
+	-webkit-column-gap:2em;
+	-webkit-column-rule:10px double blue;
+	font-family:arial black;
+	font-size:15px;
+}
+div.a
+{
+	font-family:algerian;
+	font-size:30px;
+}
+button
+{
+	height:35;
+	width:350;
+	font-size:20px;
+	color:white;
+	background-color:#f44336;;
+	border:none;
+}
+button:hover
+{
+	height:35;
+	width:350;
+	font-size:23px;
+	color:white;
+	text-decoration:underline;
+	text-transform:uppercase;
+	word-spacing:10px;
+	background-color:#da190b;
+	border:none;
+}

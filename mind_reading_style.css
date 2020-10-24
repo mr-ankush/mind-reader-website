@@ -1,0 +1,54 @@
+h1
+{
+	color:red;
+	text-decoration:underline;
+	background-color:#FFEBCD;
+	font-size:5em;
+	font-family:algerian;
+	
+}
+h1:hover
+{
+	color:black;
+	background-color:#FFEBCD;
+	font-size:5em;
+	font-family:algerian;
+	
+}
+body
+{
+		background-color:#944dff;
+}
+strong
+{
+	line-height:100px;
+	font-size:50px;
+	color:white;
+	text-transform:capitalize;
+}
+img
+{
+	border:groove;
+	border-radius:25px;
+	border-color:#ffff00;
+	border-width:5px;
+	width:150;
+	height:100;
+}
+h3
+{
+	color:white;
+	text-decoration:underline;
+}
+img.abc:hover
+{
+	height:150;
+	width:250;
+	border:3px solid black;
+	border-radius:2em;
+}
+h3:hover
+{
+	font-size:25px;
+	color:black;
+}

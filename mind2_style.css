@@ -1,0 +1,94 @@
+h1
+{
+	color:#0000FF;
+	text-decoration:underline;
+	background-color:#FFEBCD;
+	font-size:5em;
+	font-family:algerian;
+	
+}
+h1:hover
+{
+	color:black;
+	background-color:#FFEBCD;
+	font-size:5em;
+	font-family:algerian;
+	
+}
+p
+{
+	color:white;
+	font-size:30px;
+	word-spacing:10px;
+	font-family:forte;
+}
+p:hover
+{
+	color:white;
+	font-size:40px;
+	text-decoration:underline;
+	word-spacing:10px;
+	font-family:forte;
+}
+body
+{
+	background-color:orange;
+}
+div.b
+{
+	height:425;
+	width:1342;
+	margin:40px;
+	background-color:#f0b3ff;
+}
+button
+{
+	height:35;
+	width:350;
+	font-size:20px;
+	border-radius:15px;
+	text-decoration:underline;
+}
+button:hover
+{
+	height:35;
+	width:350;
+	font-size:25px;
+	border-radius:15px;
+	text-decoration:underline;
+}
+button#a
+{
+	height:15;
+	width:10;
+	background-color:red;
+	border-radius:1px;
+}
+button#b
+{
+	height:15;
+	width:10;
+	background-color:blue;
+	border-color:black;
+}
+button#c
+{
+	height:15;
+	width:10;
+	background-color:green;
+	border-radius:1px;
+}
+button#d
+{
+	height:15;
+	width:10;
+	background-color:purple;
+	border-color:black;
+}
+button#e
+{
+	height:15;
+	width:10;
+	background-color:#ff0066;
+	border-radius:1px;
+}

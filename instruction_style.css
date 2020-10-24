@@ -1,0 +1,65 @@
+h1
+{
+	color:#0000FF;
+	text-decoration:underline;
+	background-color:#FFEBCD;
+	font-size:4em;
+	font-family:algerian;
+	
+}
+h1:hover
+{
+	color:black;
+	background-color:#FFEBCD;
+	font-size:4em;
+	font-family:algerian;
+	
+}
+p
+{
+	color:white;
+	font-size:30px;
+	word-spacing:10px;
+	font-family:forte;
+}
+p:hover
+{
+	color:white;
+	font-size:40px;
+	text-decoration:underline;
+	word-spacing:10px;
+	font-family:forte;
+}
+body
+{
+	background-color:orange;
+}
+div.b
+{
+	height:425;
+	width:1342;
+	margin:40px;
+	background-color:white;
+}
+button
+{
+	height:35;
+	width:250;
+	font-size:20px;
+	text-decoration:underline;
+	border-radius:15px;
+}
+button:hover
+{
+	height:40;
+	width:275;
+	font-size:25px;
+	text-decoration:underline;
+	border-radius:15px;
+}
+strong
+{
+	font-size:25px;
+	font-family:times new roman;
+	line-height:35px;
+}
